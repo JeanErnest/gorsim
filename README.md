@@ -1,0 +1,2 @@
+# gorsim
+react-redux app
